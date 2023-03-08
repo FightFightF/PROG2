@@ -1,0 +1,18 @@
+{
+    "recipes": [
+        {
+            "name": "Chocolate self-saucing pudding",
+            "category": "Desserts",
+            "ingredients": ["1 cup (150g) self-raising flour", "1 cup (220g) caster sugar", "1/2 cup (50g) cocoa powder", "60g unsalted butter, melted", "1/2 cup (125ml) milk", "1/2 tsp vanilla extract", "1 egg", "Vanilla ice cream"],
+            "instructions": "1. Preheat the oven to 160°C. Grease an 1.5L (6-cup) capacity ovenproof baking dish. 2. Sift the flour, 1/2 cup (110g) sugar and 1/4 cup (25g) cocoa into a bowl and stir to combine. Make a well in the centre. In a separate bowl, whisk melted butter, milk, vanilla extract and egg. Gradually pour into the well, then fold to combine. 3. Spread mixture evenly into prepared dish. Combine remaining 1/2 cup (110g) sugar and 1/4 cup (25g) cocoa and sprinkle over the top of the pudding. Carefully pour 1 cup (250ml) boiling water over the top of the pudding. 4. Bake for 30-35 minutes until the top is firm. Stand for 10 minutes to cool slightly. 5. Dust the warm pudding with extra cocoa and serve immediately with vanilla ice cream.",
+            "hidden": true
+        },
+        {
+            "name": "Snake Sushi Rolls",
+            "category": "Appetizer",
+            "ingredients": ["2 cups sushi rice", "4 sheets nori seaweed", "1/2 pound cooked snake meat", "1 avocado", "1 cucumber", "wasabi paste", "soy sauce"],
+            "instructions": "1. Cook sushi rice according to package instructions. 2. Lay a sheet of nori on a sushi mat. Spread rice over the nori, leaving about 1 inch at the top edge. 3. Add sliced avocado and cucumber, and cooked snake meat. 4. Roll the sushi tightly, using the sushi mat to help shape it. 5. Serve with wasabi and soy sauce.",
+            "hidden": false
+        }
+    ]
+}
