@@ -42,7 +42,6 @@ class RecipeBook:
     def to_dict(self):
         return {"recipes": [recipe.to_dict() for recipe in self.recipes]}
 
-    @classmethod
     def from_dict(cls, data):
         book = cls()
         for recipe_data in data.get("recipes", []):
@@ -59,7 +58,6 @@ class RecipeBook:
         with open(filename, "w") as f:
             json.dump(self.to_dict(), f)
 
-    @classmethod
     def load_from_file(cls, filename):
         with open(filename, "r") as f:
             data = json.load(f)
